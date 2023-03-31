@@ -1,2 +1,0 @@
-[34m2023-03-30 09:46:42.645 EAT 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
-Error: got unexpected status: BAD_REQUEST -- error applying config update to existing channel 'plnchannel': error authorizing update: error validating ReadSet: proposed update requires that key [Group]  /Channel/Application/Org3MSP be at version 0, but it is currently at version 1
